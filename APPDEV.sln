@@ -1,4 +1,4 @@
-﻿
+﻿#DenverSheeesh
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
@@ -11,7 +11,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "APPDEV", "..\..\WebSites\AP
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64738\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.FixedNames = "false" 
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_64738"
 		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\APPDEV\"
